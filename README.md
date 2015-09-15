@@ -17,14 +17,23 @@ A bináris állományokat a media könyvtárba tedd, de lehetőleg ne legyen ily
 
 - [Progamnyelvek](#programnyelvek)
 - [Technológiák](#technologiák)
+- [Big Data](#big-data)
 
 ## Progamnyelvek
 
 - [Java](https://github.com/akullpp/awesome-java)
 - [SQL](https://github.com/budacsik/awesome-sql)
-- [Python](https://github.com/budacsik/awesome-python)
 
 ## Technológiák
 
-- [Big Data](https://github.com/budacsik/awesome-bigdata)
+## Big Data
 
+- [Apache Hive](https://cwiki.apache.org/confluence/display/Hive/GettingStarted) - Adattárház szoftver, mely az Apche Hadoop-ra épül.
+- [Apache Kafka](http://kafka.apache.org/documentation.html#introduction) - Kafka is a distributed, partitioned, replicated commit log service
+- [What is Hadoop](http://www.technology-mania.com/2011/03/understanding-what-is-hadoop.html) - Technoligy Mania
+- [Prezi](https://prezi.com/lyudnveyjfp6/nagy-adathalmazok-kezelese-hadoop-technologiakkal/) - Nagy adathalmazok kezelése Hadoop technológiával
+- [Adatbányászat](http://adatbanyaszat.blog.hu/) - Magyar nyelvű adatbányászatról szóló blog.
+- [Python](https://docs.python.org/3/) - Python hivatalos dokumentációja
+- [Learn Python](https://www.codecademy.com/tracks/python) - Learn to program in Python, a powerful language
+- [R project](https://www.r-project.org/other-docs.html) - Official R project page
+- [Try R](http://tryr.codeschool.com/) - Code School free course.
