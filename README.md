@@ -20,6 +20,10 @@ A bináris állományokat a media könyvtárba tedd, de lehetőleg ne legyen ily
 - [Progamnyelvek](#programnyelvek)
 - [Technológiák](#technologiák)
 
+## Architektúra
+
+- [Miért microservice?](https://blog.risingstack.com/why-you-should-start-using-microservices/)
+
 ## Fejlesztés
 
 - [Ki a jó és ki a rossz programozó?](https://medium.com/@CodementorIO/good-developers-vs-bad-developers-fe9d2d6b582b)
