@@ -15,6 +15,7 @@ A bináris állományokat a media könyvtárba tedd, de lehetőleg ne legyen ily
 
 ## Tartalomjegyzék
 
+- [Architektúra](#architektúra)
 - [Big Data](#big-data)
 - [Fejlesztés](#fejlesztés)
 - [Progamnyelvek](#programnyelvek)
