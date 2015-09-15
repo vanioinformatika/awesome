@@ -11,7 +11,7 @@ Hogyan szerkezd:
 5. Szerkezd az oldalt a GitHub Markdown szabályai szerint. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) vagy még jobb: [Awesome GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
 6. Ha kész, akkor 'Commit changes'.
 
-GitHub Markdown leírás: https://guides.github.com/features/mastering-markdown/
+A bináris állományokat a media könyvtárba tedd, de lehetőleg ne legyen ilyen.
 
 ## Tartalomjegyzék
 
