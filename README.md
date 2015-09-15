@@ -20,3 +20,4 @@ A bináris állományokat a media könyvtárba tedd, de lehetőleg ne legyen ily
 ## Progamnyelvek
 
 - [Java](https://github.com/akullpp/awesome-java)
+- [SQL](https://github.com/budacsik/awesome-sql)
