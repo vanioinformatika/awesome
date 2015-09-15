@@ -1,6 +1,6 @@
 # Vanio awesome
 
-![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/logo.png)
+![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)
 
 
 Hogyan szerkezd:
