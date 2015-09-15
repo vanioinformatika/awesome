@@ -1,4 +1,4 @@
-![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg)
+![Awesome](https://rawgit.com/sindresorhus/awesome/master/media/badge.svg)
 
 # Vanio awesome
 
