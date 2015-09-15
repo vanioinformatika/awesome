@@ -1,7 +1,6 @@
+![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg)
+
 # Vanio awesome
-
-![Awesome](https://github.com/sindresorhus/awesome/blob/master/media/badge.svg)
-
 
 Hogyan szerkezd:
 
@@ -10,8 +9,7 @@ Hogyan szerkezd:
 3. Klikk a readme.md állományon.
 4. Klikk az Edit ikonon <span class="octicon oction-pencil"></span>
 5. Szerkezd az oldalt a GitHub Markdown szabályai szerint. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
-6. Ha kész, akkor Propose file change gombbal mented el.
-
+6. Ha kész, akkor 'Commit changes'.
 
 GitHub Markdown leírás: https://guides.github.com/features/mastering-markdown/
 
