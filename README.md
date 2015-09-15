@@ -8,7 +8,7 @@ Hogyan szerkezd:
 2. Menj erre az oldalra: https://github.com/vanioinformatika/awesome
 3. Klikk a readme.md állományon.
 4. Klikk az Edit ikonon <span class="octicon oction-pencil"></span>
-5. Szerkezd az oldalt a GitHub Markdown szabályai szerint. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+5. Szerkezd az oldalt a GitHub Markdown szabályai szerint. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) vagy még jobb: [Awesome GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
 6. Ha kész, akkor 'Commit changes'.
 
 GitHub Markdown leírás: https://guides.github.com/features/mastering-markdown/
